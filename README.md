@@ -4,4 +4,4 @@ OpenAI's DALL-E and DALL-E 2 are groundbreaking AI systems capable of generating
 
 Their goal is to explore various network architectures, including DCGANs, GANs, and diffusion models, for text-to-image generation and compare their performance.
 
-In this repository, I've implemented image processing techniques and created text embeddings from textual inputs, which are crucial for training these neural networks."
+In this repository, I've implemented image processing techniques and created text embeddings from textual inputs, which are crucial for training these neural networks.
